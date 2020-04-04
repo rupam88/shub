@@ -1,1 +1,19 @@
-dkfhriuyreiednsknkjhsduhfewioh
+//WAP for Adding two number using third variable
+     
+     class Add
+     {
+           public static void main(String[] args)
+           {
+           int a=10,b=9,c;
+           c=a+b;
+           
+           System.out.println("Addition of two number is "+c);
+           }
+           }
+           
+           //WAP for Addition of two number in python language
+           
+           num1=input("Enter an number):
+           num2=input("Enter second  number"):
+           num3=num1+num2:
+           print(num3):
